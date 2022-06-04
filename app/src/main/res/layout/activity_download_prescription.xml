@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/backcshowprescription"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".DownloadPrescription">
+    <include layout="@layout/toolbarprescription"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:paddingTop="15dp"
+        android:layout_width="match_parent"
+        android:id="@+id/rcvfordownloadlink"
+        android:layout_height="match_parent">
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <LinearLayout
+        android:id="@+id/empty3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/itsbar"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/elevation"
+            android:elevation="10dp"
+            android:textColor="@color/signup_color1"
+            android:fontFamily="@font/firasansmedium"
+            android:padding="10dp"
+            android:text="No Prescriptions to show"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:id="@+id/seedoctors___"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="150dp"
+            android:background="@drawable/elevation"
+            android:paddingHorizontal="15dp"
+            android:elevation="10dp"
+            android:src="@drawable/uu1" />
+    </LinearLayout>
+</LinearLayout>

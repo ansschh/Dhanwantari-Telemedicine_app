@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialog_layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:padding="20dp"
+    android:background="@drawable/alertcustom"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/warning_"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        android:textColor="@color/yellow"
+        android:fontFamily="@font/firasansextrabold"
+        android:layout_height="wrap_content"
+        android:text="Your Profile is currently under review please wait until we \n approve it. Until then please keep checking dhanwantari app" />
+    <TextView
+        android:gravity="center"
+        android:id="@+id/thankyou"
+        android:background="@drawable/edit_text_btn1"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:text="OK"
+        android:fontFamily="@font/firasansextrabold"
+        android:textColor="@color/black"
+        android:padding="5dp">
+
+    </TextView>
+
+</LinearLayout>

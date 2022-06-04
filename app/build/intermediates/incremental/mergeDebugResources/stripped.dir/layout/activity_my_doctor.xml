@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MyDoctor">
+    <include layout="@layout/mydoctortoolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+    <LinearLayout
+        android:id="@+id/nobookmarked"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/ic_doctor"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17dp"
+            android:fontFamily="@font/firasansextrabold"
+            android:textColor="@color/stroke_color"
+            android:text="No Bookmarked Doctor"/>
+        <ImageView
+            android:id="@+id/adddoctors"
+            android:layout_marginVertical="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_add_24"
+            android:elevation="10dp"
+            android:background="@drawable/elevation"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:fontFamily="@font/firasansextrabold"
+            android:textColor="@color/signup_color1"
+            android:text="Add Now"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/mydoctorrecview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+    </androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>

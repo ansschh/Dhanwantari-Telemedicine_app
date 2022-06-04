@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kanad.health">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:requestLegacyExternalStorage="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Health">
+        <activity
+            android:name=".ContactPage"
+            android:exported="false" />
+        <activity
+            android:name=".RemotePatientMonitoring"
+            android:exported="false" />
+        <activity
+            android:name=".RegularPatientProfile"
+            android:exported="false" />
+        <activity
+            android:name=".MyPatient"
+            android:exported="false" />
+        <activity
+            android:name=".RegularPatient"
+            android:exported="false" />
+        <activity
+            android:name=".MyDoctor"
+            android:exported="false" />
+        <activity
+            android:name=".PreviousDoctors"
+            android:exported="false" />
+        <activity
+            android:name=".ReadSensorData"
+            android:exported="false" />
+        <activity
+            android:name=".SendActivity"
+            android:exported="false" />
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_API_KEY" />
+
+        <activity
+            android:name=".CovidTracker"
+            android:exported="false" />
+        <activity
+            android:name=".DownloadPrescription"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GovSchemes"
+            android:exported="false" />
+        <activity
+            android:name=".Prescription"
+            android:exported="false" />
+        <activity
+            android:name=".GiveMedicine"
+            android:exported="false" />
+        <activity
+            android:name=".VideoCallActivity"
+            android:exported="true"
+            tools:node="merge" />
+        <activity
+            android:name=".BookedSLots"
+            android:exported="false" />
+        <activity
+            android:name=".BookASlot"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorProfileShow"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorShow"
+            android:exported="false" />
+        <activity
+            android:name=".SentForReview"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorFillForm6"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorFillForm5"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorFillForm4"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorFillForm3"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorFillForm2"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorFillForm"
+            android:exported="true" />
+        <activity
+            android:name=".DiseaseReport"
+            android:exported="true" />
+        <activity
+            android:name=".CheckDisease"
+            android:exported="true" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+
+        <service
+            android:name="org.jitsi.meet.sdk.ConnectionService"
+            android:exported="true"
+            tools:node="merge" />
+        <service
+            android:name=".FirebaseMessagingService"
+            android:exported="true"
+            android:permission="TODO"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+    </application>
+</manifest>

@@ -1,0 +1,879 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kanad.health"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:8:5-66
+13-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:8:22-63
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+15-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:10:5-73
+15-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:10:22-70
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:12:5-79
+17-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.READ_CALENDAR" />
+18-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:13:5-72
+18-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:13:22-69
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:14:5-65
+19-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:14:22-62
+20    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+20-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:15:5-75
+20-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:15:22-72
+21    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+21-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:16:5-85
+21-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:16:22-82
+22    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+22-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:17:5-79
+22-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:17:22-76
+23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+23-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:12:5-79
+23-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:12:22-76
+24    <uses-permission android:name="android.permission.BODY_SENSORS" />
+24-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:19:5-71
+24-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:19:22-68
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] C:\Users\ansht\.gradle\caches\transforms-3\7c7740557e0981d09071dc92b45fc79f\transformed\jetified-core-11.0.1\AndroidManifest.xml:10:5-79
+25-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1] C:\Users\ansht\.gradle\caches\transforms-3\7c7740557e0981d09071dc92b45fc79f\transformed\jetified-core-11.0.1\AndroidManifest.xml:10:22-76
+26    <uses-permission android:name="android.permission.BLUETOOTH" />
+26-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:10:5-68
+26-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:10:22-65
+27    <uses-permission android:name="android.permission.MANAGE_OWN_CALLS" />
+27-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:13:5-75
+27-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:13:22-72
+28    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+28-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:14:5-80
+28-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:14:22-77
+29    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+29-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:15:5-71
+29-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:15:22-68
+30    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+30-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:16:5-78
+30-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:16:22-75
+31    <uses-permission android:name="android.permission.WAKE_LOCK" />
+31-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:17:5-68
+31-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:17:22-65
+32    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+32-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:18:5-76
+32-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:18:22-73
+33    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+33-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:19:5-77
+33-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:19:22-74
+34
+35    <uses-feature
+35-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:21:5-23:35
+36        android:glEsVersion="0x00020000"
+36-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:22:9-41
+37        android:required="true" />
+37-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:23:9-32
+38    <uses-feature
+38-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:24:5-26:36
+39        android:name="android.hardware.camera"
+39-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:25:9-47
+40        android:required="false" />
+40-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:26:9-33
+41    <uses-feature
+41-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:27:5-29:36
+42        android:name="android.hardware.camera.autofocus"
+42-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:28:9-57
+43        android:required="false" />
+43-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:29:9-33
+44
+45    <queries>
+45-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ansht\.gradle\caches\transforms-3\a7ea5014525046037ceb90e763d36152\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+46
+47        <!-- Needs to be explicitly declared on Android R+ -->
+48        <package android:name="com.google.android.apps.maps" />
+48-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ansht\.gradle\caches\transforms-3\a7ea5014525046037ceb90e763d36152\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+48-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ansht\.gradle\caches\transforms-3\a7ea5014525046037ceb90e763d36152\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+49    </queries> <!-- Required by older versions of Google Play services to create IID tokens -->
+50    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+50-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:28:5-82
+50-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:28:22-79
+51    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Include required permissions for Advertising Id -->
+51-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:26:5-110
+51-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:26:22-107
+52    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+52-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ansht\.gradle\caches\transforms-3\a2c5cf83e677dd44683b2eeec2acd08d\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+52-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\ansht\.gradle\caches\transforms-3\a2c5cf83e677dd44683b2eeec2acd08d\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
+53
+54    <application
+54-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:21:5-169:19
+55        android:allowBackup="true"
+55-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:22:9-35
+56        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+56-->[androidx.core:core:1.7.0] C:\Users\ansht\.gradle\caches\transforms-3\cc2282fbaa464234616b881367bb4ed3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+57        android:debuggable="true"
+58        android:extractNativeLibs="false"
+59        android:icon="@mipmap/ic_launcher"
+59-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:23:9-43
+60        android:label="@string/app_name"
+60-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:24:9-41
+61        android:requestLegacyExternalStorage="true"
+61-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:26:9-52
+62        android:roundIcon="@mipmap/ic_launcher"
+62-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:25:9-48
+63        android:supportsRtl="true"
+63-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:27:9-35
+64        android:theme="@style/Theme.Health" >
+64-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:28:9-44
+65        <activity
+65-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:29:9-31:40
+66            android:name="com.kanad.health.ContactPage"
+66-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:30:13-40
+67            android:exported="false" />
+67-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:31:13-37
+68        <activity
+68-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:32:9-34:40
+69            android:name="com.kanad.health.RemotePatientMonitoring"
+69-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:33:13-52
+70            android:exported="false" />
+70-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:34:13-37
+71        <activity
+71-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:35:9-37:40
+72            android:name="com.kanad.health.RegularPatientProfile"
+72-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:36:13-50
+73            android:exported="false" />
+73-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:37:13-37
+74        <activity
+74-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:38:9-40:40
+75            android:name="com.kanad.health.MyPatient"
+75-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:39:13-38
+76            android:exported="false" />
+76-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:40:13-37
+77        <activity
+77-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:41:9-43:40
+78            android:name="com.kanad.health.RegularPatient"
+78-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:42:13-43
+79            android:exported="false" />
+79-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:43:13-37
+80        <activity
+80-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:44:9-46:40
+81            android:name="com.kanad.health.MyDoctor"
+81-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:45:13-37
+82            android:exported="false" />
+82-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:46:13-37
+83        <activity
+83-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:47:9-49:40
+84            android:name="com.kanad.health.PreviousDoctors"
+84-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:48:13-44
+85            android:exported="false" />
+85-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:49:13-37
+86        <activity
+86-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:50:9-52:40
+87            android:name="com.kanad.health.ReadSensorData"
+87-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:51:13-43
+88            android:exported="false" />
+88-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:52:13-37
+89        <activity
+89-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:53:9-55:40
+90            android:name="com.kanad.health.SendActivity"
+90-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:54:13-41
+91            android:exported="false" />
+91-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:55:13-37
+92        <!--
+93             TODO: Before you run your application, you need a Google Maps API key.
+94
+95             To get one, follow the directions here:
+96
+97                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+98
+99             Once you have your API key (it starts with "AIza"), define a new property in your
+100             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+101             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+102        -->
+103        <meta-data
+103-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:67:9-69:44
+104            android:name="com.google.android.geo.API_KEY"
+104-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:68:13-58
+105            android:value="YOUR_API_KEY" />
+105-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:69:13-41
+106
+107        <activity
+107-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:71:9-73:40
+108            android:name="com.kanad.health.CovidTracker"
+108-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:72:13-41
+109            android:exported="false" />
+109-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:73:13-37
+110        <activity
+110-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:74:9-76:40
+111            android:name="com.kanad.health.DownloadPrescription"
+111-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:75:13-49
+112            android:exported="false" />
+112-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:76:13-37
+113        <activity
+113-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:77:9-79:40
+114            android:name="com.kanad.health.MainActivity"
+114-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:78:13-41
+115            android:exported="false" />
+115-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:79:13-37
+116        <activity
+116-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:80:9-88:20
+117            android:name="com.kanad.health.SplashScreen"
+117-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:81:13-41
+118            android:exported="true" >
+118-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:82:13-36
+119            <intent-filter>
+119-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:83:13-87:29
+120                <action android:name="android.intent.action.MAIN" />
+120-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:84:17-69
+120-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:84:25-66
+121
+122                <category android:name="android.intent.category.LAUNCHER" />
+122-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:86:17-77
+122-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:86:27-74
+123            </intent-filter>
+124        </activity>
+125        <activity
+125-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:89:9-91:40
+126            android:name="com.kanad.health.GovSchemes"
+126-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:90:13-39
+127            android:exported="false" />
+127-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:91:13-37
+128        <activity
+128-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:92:9-94:40
+129            android:name="com.kanad.health.Prescription"
+129-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:93:13-41
+130            android:exported="false" />
+130-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:94:13-37
+131        <activity
+131-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:95:9-97:40
+132            android:name="com.kanad.health.GiveMedicine"
+132-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:96:13-41
+133            android:exported="false" />
+133-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:97:13-37
+134        <activity
+134-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:98:9-101:34
+135            android:name="com.kanad.health.VideoCallActivity"
+135-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:99:13-46
+136            android:exported="true" />
+136-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:100:13-36
+137        <activity
+137-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:102:9-104:40
+138            android:name="com.kanad.health.BookedSLots"
+138-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:103:13-40
+139            android:exported="false" />
+139-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:104:13-37
+140        <activity
+140-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:105:9-107:40
+141            android:name="com.kanad.health.BookASlot"
+141-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:106:13-38
+142            android:exported="false" />
+142-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:107:13-37
+143        <activity
+143-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:108:9-110:40
+144            android:name="com.kanad.health.DoctorProfileShow"
+144-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:109:13-46
+145            android:exported="false" />
+145-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:110:13-37
+146        <activity
+146-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:111:9-113:40
+147            android:name="com.kanad.health.DoctorShow"
+147-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:112:13-39
+148            android:exported="false" />
+148-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:113:13-37
+149        <activity
+149-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:114:9-116:40
+150            android:name="com.kanad.health.SentForReview"
+150-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:115:13-42
+151            android:exported="false" />
+151-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:116:13-37
+152        <activity
+152-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:117:9-119:40
+153            android:name="com.kanad.health.DoctorFillForm6"
+153-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:118:13-44
+154            android:exported="false" />
+154-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:119:13-37
+155        <activity
+155-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:120:9-122:39
+156            android:name="com.kanad.health.DoctorFillForm5"
+156-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:121:13-44
+157            android:exported="true" />
+157-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:122:13-36
+158        <activity
+158-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:123:9-125:39
+159            android:name="com.kanad.health.DoctorFillForm4"
+159-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:124:13-44
+160            android:exported="true" />
+160-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:125:13-36
+161        <activity
+161-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:126:9-128:39
+162            android:name="com.kanad.health.DoctorFillForm3"
+162-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:127:13-44
+163            android:exported="true" />
+163-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:128:13-36
+164        <activity
+164-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:129:9-131:39
+165            android:name="com.kanad.health.DoctorFillForm2"
+165-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:130:13-44
+166            android:exported="true" />
+166-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:131:13-36
+167        <activity
+167-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:132:9-134:39
+168            android:name="com.kanad.health.DoctorFillForm"
+168-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:133:13-43
+169            android:exported="true" />
+169-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:134:13-36
+170        <activity
+170-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:135:9-137:39
+171            android:name="com.kanad.health.DiseaseReport"
+171-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:136:13-42
+172            android:exported="true" />
+172-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:137:13-36
+173        <activity
+173-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:138:9-140:39
+174            android:name="com.kanad.health.CheckDisease"
+174-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:139:13-41
+175            android:exported="true" />
+175-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:140:13-36
+176        <activity
+176-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:141:9-143:39
+177            android:name="com.kanad.health.ProfileActivity"
+177-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:142:13-44
+178            android:exported="true" />
+178-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:143:13-36
+179        <activity
+179-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:144:9-146:39
+180            android:name="com.kanad.health.SignupActivity"
+180-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:145:13-43
+181            android:exported="true" />
+181-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:146:13-36
+182        <activity
+182-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:147:9-149:39
+183            android:name="com.kanad.health.LoginActivity"
+183-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:148:13-42
+184            android:exported="true" />
+184-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:149:13-36
+185
+186        <service
+186-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:151:9-154:34
+187            android:name="org.jitsi.meet.sdk.ConnectionService"
+187-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:152:13-64
+188            android:exported="true"
+188-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:153:13-36
+189            android:permission="android.permission.BIND_TELECOM_CONNECTION_SERVICE" >
+189-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:46:13-84
+190            <intent-filter>
+190-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:47:13-49:29
+191                <action android:name="android.telecom.ConnectionService" />
+191-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:48:17-76
+191-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:48:25-73
+192            </intent-filter>
+193        </service>
+194        <service
+194-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:155:9-163:19
+195            android:name="com.kanad.health.FirebaseMessagingService"
+195-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:156:13-53
+196            android:exported="true"
+196-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:157:13-36
+197            android:permission="TODO" >
+197-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:158:13-38
+198            <intent-filter>
+198-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:160:13-162:29
+199                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+199-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:161:17-78
+199-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:161:25-75
+200            </intent-filter>
+201        </service>
+202
+203        <activity
+203-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:165:9-168:48
+204            android:name="com.facebook.FacebookActivity"
+204-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:166:13-57
+205            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+205-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:167:13-96
+206            android:label="@string/app_name"
+206-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:168:13-45
+207            android:theme="@style/com_facebook_activity_theme" />
+207-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:33:13-63
+208        <activity
+208-->[com.karumi:dexter:5.0.0] C:\Users\ansht\.gradle\caches\transforms-3\708754098a5e0f9396d554f57e2ff977\transformed\jetified-dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+209            android:name="com.karumi.dexter.DexterActivity"
+209-->[com.karumi:dexter:5.0.0] C:\Users\ansht\.gradle\caches\transforms-3\708754098a5e0f9396d554f57e2ff977\transformed\jetified-dexter-5.0.0\AndroidManifest.xml:28:13-60
+210            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+210-->[com.karumi:dexter:5.0.0] C:\Users\ansht\.gradle\caches\transforms-3\708754098a5e0f9396d554f57e2ff977\transformed\jetified-dexter-5.0.0\AndroidManifest.xml:29:13-69
+211        <activity
+211-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:35:9-41:58
+212            android:name="org.jitsi.meet.sdk.JitsiMeetActivity"
+212-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:36:13-64
+213            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
+213-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:37:13-115
+214            android:launchMode="singleTask"
+214-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:38:13-44
+215            android:resizeableActivity="true"
+215-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:39:13-46
+216            android:supportsPictureInPicture="true"
+216-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:40:13-52
+217            android:windowSoftInputMode="adjustResize" />
+217-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:41:13-55
+218        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+218-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:42:9-86
+218-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:42:19-83
+219
+220        <service
+220-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:51:9-53:63
+221            android:name="org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService"
+221-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:52:13-80
+222            android:foregroundServiceType="mediaProjection" />
+222-->[org.jitsi.react:jitsi-meet-sdk:2.11.0] C:\Users\ansht\.gradle\caches\transforms-3\30f2951a396e7a8ac4a8a82abc5b9fc3\transformed\jetified-jitsi-meet-sdk-2.11.0\AndroidManifest.xml:53:13-60
+223
+224        <activity android:name="com.facebook.CustomTabMainActivity" />
+224-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:34:9-71
+224-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:34:19-68
+225        <activity
+225-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:35:9-49:20
+226            android:name="com.facebook.CustomTabActivity"
+226-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:36:13-58
+227            android:exported="true" >
+227-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:37:13-36
+228            <intent-filter>
+228-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:39:13-48:29
+229                <action android:name="android.intent.action.VIEW" />
+229-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:40:17-69
+229-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:40:25-66
+230
+231                <category android:name="android.intent.category.DEFAULT" />
+231-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:17-76
+231-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:27-73
+232                <category android:name="android.intent.category.BROWSABLE" />
+232-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:43:17-78
+232-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:43:27-75
+233
+234                <data
+234-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:45:17-47:50
+235                    android:host="cct.com.kanad.health"
+235-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:46:21-56
+236                    android:scheme="fbconnect" />
+236-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:47:21-47
+237            </intent-filter>
+238        </activity>
+239
+240        <provider
+240-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:12:9-20:20
+241            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+241-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:13:13-83
+242            android:authorities="com.kanad.health.fileprovider"
+242-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:14:13-64
+243            android:exported="false"
+243-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:15:13-37
+244            android:grantUriPermissions="true" >
+244-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:16:13-47
+245            <meta-data
+245-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:17:13-19:63
+246                android:name="android.support.FILE_PROVIDER_PATHS"
+246-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:18:17-67
+247                android:resource="@xml/file_provider_paths" />
+247-->[com.facebook.react:react-native-webview:10.9.0-jitsi-5932602] C:\Users\ansht\.gradle\caches\transforms-3\afcc79b88776efbc610d0df8904a4145\transformed\jetified-react-native-webview-10.9.0-jitsi-5932602\AndroidManifest.xml:19:17-60
+248        </provider>
+249
+250        <activity
+250-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+251            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+251-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+252            android:excludeFromRecents="true"
+252-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+253            android:exported="true"
+253-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+254            android:launchMode="singleTask"
+254-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+255            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+255-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+256            <intent-filter>
+256-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+257                <action android:name="android.intent.action.VIEW" />
+257-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:40:17-69
+257-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:40:25-66
+258
+259                <category android:name="android.intent.category.DEFAULT" />
+259-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:17-76
+259-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:27-73
+260                <category android:name="android.intent.category.BROWSABLE" />
+260-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:43:17-78
+260-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:43:27-75
+261
+262                <data
+262-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:45:17-47:50
+263                    android:host="firebase.auth"
+263-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:46:21-56
+264                    android:path="/"
+265                    android:scheme="genericidp" />
+265-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:47:21-47
+266            </intent-filter>
+267        </activity>
+268        <activity
+268-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+269            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+269-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+270            android:excludeFromRecents="true"
+270-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+271            android:exported="true"
+271-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+272            android:launchMode="singleTask"
+272-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+273            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+273-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+274            <intent-filter>
+274-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+275                <action android:name="android.intent.action.VIEW" />
+275-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:40:17-69
+275-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:40:25-66
+276
+277                <category android:name="android.intent.category.DEFAULT" />
+277-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:17-76
+277-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:27-73
+278                <category android:name="android.intent.category.BROWSABLE" />
+278-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:43:17-78
+278-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:43:27-75
+279
+280                <data
+280-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:45:17-47:50
+281                    android:host="firebase.auth"
+281-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:46:21-56
+282                    android:path="/"
+283                    android:scheme="recaptcha" />
+283-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:47:21-47
+284            </intent-filter>
+285        </activity>
+286
+287        <service
+287-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+288            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+288-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+289            android:enabled="true"
+289-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+290            android:exported="false" >
+290-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+291            <intent-filter>
+291-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+292                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+292-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+292-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+293
+294                <category android:name="android.intent.category.DEFAULT" />
+294-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:17-76
+294-->[com.facebook.android:facebook-common:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\d99f22d69a49905f5afbebbf40655ccb\transformed\jetified-facebook-common-13.1.0\AndroidManifest.xml:42:27-73
+295            </intent-filter>
+296        </service>
+297        <service
+297-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+298            android:name="com.google.firebase.components.ComponentDiscoveryService"
+298-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+299            android:directBootAware="true"
+299-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+300            android:exported="false" >
+300-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+301            <meta-data
+301-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+302                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+302-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+303                android:value="com.google.firebase.components.ComponentRegistrar" />
+303-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\280fde156b719112811f159ea40a53b2\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+304            <meta-data
+304-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ansht\.gradle\caches\transforms-3\834ebe1748eb71b604919bef3eb52b81\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+305                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+305-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ansht\.gradle\caches\transforms-3\834ebe1748eb71b604919bef3eb52b81\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+306                android:value="com.google.firebase.components.ComponentRegistrar" />
+306-->[com.google.firebase:firebase-database:20.0.3] C:\Users\ansht\.gradle\caches\transforms-3\834ebe1748eb71b604919bef3eb52b81\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+307            <meta-data
+307-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\ansht\.gradle\caches\transforms-3\82ee4b62666a039dcd84693a124f43ff\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+308                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+308-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\ansht\.gradle\caches\transforms-3\82ee4b62666a039dcd84693a124f43ff\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+309                android:value="com.google.firebase.components.ComponentRegistrar" />
+309-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\ansht\.gradle\caches\transforms-3\82ee4b62666a039dcd84693a124f43ff\transformed\jetified-firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+310            <meta-data
+310-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:55:13-57:85
+311                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+311-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:56:17-119
+312                android:value="com.google.firebase.components.ComponentRegistrar" />
+312-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:57:17-82
+313            <meta-data
+313-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\ansht\.gradle\caches\transforms-3\683a9e8e1a6fa063f1b11d36e2055b0d\transformed\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:28:13-30:85
+314                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+314-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\ansht\.gradle\caches\transforms-3\683a9e8e1a6fa063f1b11d36e2055b0d\transformed\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:29:17-115
+315                android:value="com.google.firebase.components.ComponentRegistrar" />
+315-->[com.google.firebase:firebase-datatransport:18.1.1] C:\Users\ansht\.gradle\caches\transforms-3\683a9e8e1a6fa063f1b11d36e2055b0d\transformed\jetified-firebase-datatransport-18.1.1\AndroidManifest.xml:30:17-82
+316            <meta-data
+316-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\b03b3b227b9dcc45add96959bf420454\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:30:13-32:85
+317                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+317-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\b03b3b227b9dcc45add96959bf420454\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:31:17-139
+318                android:value="com.google.firebase.components.ComponentRegistrar" />
+318-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\b03b3b227b9dcc45add96959bf420454\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:32:17-82
+319            <meta-data
+319-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\ansht\.gradle\caches\transforms-3\61fbda7818ea7cf9e510fa8025a3736b\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+320                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+320-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\ansht\.gradle\caches\transforms-3\61fbda7818ea7cf9e510fa8025a3736b\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+321                android:value="com.google.firebase.components.ComponentRegistrar" />
+321-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\ansht\.gradle\caches\transforms-3\61fbda7818ea7cf9e510fa8025a3736b\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+322        </service>
+323
+324        <provider
+324-->[com.squareup.picasso:picasso:2.71828] C:\Users\ansht\.gradle\caches\transforms-3\964d7906395f507078c3a7545184a956\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+325            android:name="com.squareup.picasso.PicassoProvider"
+325-->[com.squareup.picasso:picasso:2.71828] C:\Users\ansht\.gradle\caches\transforms-3\964d7906395f507078c3a7545184a956\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+326            android:authorities="com.kanad.health.com.squareup.picasso"
+326-->[com.squareup.picasso:picasso:2.71828] C:\Users\ansht\.gradle\caches\transforms-3\964d7906395f507078c3a7545184a956\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+327            android:exported="false" /> <!-- Needs to be explicitly declared on P+ -->
+327-->[com.squareup.picasso:picasso:2.71828] C:\Users\ansht\.gradle\caches\transforms-3\964d7906395f507078c3a7545184a956\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+328        <uses-library
+328-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ansht\.gradle\caches\transforms-3\a7ea5014525046037ceb90e763d36152\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+329            android:name="org.apache.http.legacy"
+329-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ansht\.gradle\caches\transforms-3\a7ea5014525046037ceb90e763d36152\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+330            android:required="false" />
+330-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\ansht\.gradle\caches\transforms-3\a7ea5014525046037ceb90e763d36152\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+331
+332        <receiver
+332-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:31:9-38:20
+333            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+333-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:32:13-78
+334            android:exported="true"
+334-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:33:13-36
+335            android:permission="com.google.android.c2dm.permission.SEND" >
+335-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:34:13-73
+336            <intent-filter>
+336-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:35:13-37:29
+337                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+337-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:36:17-81
+337-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:36:25-78
+338            </intent-filter>
+339        </receiver>
+340        <!--
+341             FirebaseMessagingService performs security checks at runtime,
+342             but set to not exported to explicitly avoid allowing another app to call it.
+343        -->
+344        <service
+344-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:44:9-51:19
+345            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+345-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:45:13-82
+346            android:directBootAware="true"
+346-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:46:13-43
+347            android:exported="false" >
+347-->[com.google.firebase:firebase-messaging:23.0.2] C:\Users\ansht\.gradle\caches\transforms-3\b457ebe7b8de670036f0155d894190f5\transformed\jetified-firebase-messaging-23.0.2\AndroidManifest.xml:47:13-37
+348            <intent-filter android:priority="-500" >
+348-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:160:13-162:29
+349                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+349-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:161:17-78
+349-->C:\Users\ansht\Desktop\Health\Health\app\src\main\AndroidManifest.xml:161:25-75
+350            </intent-filter>
+351        </service>
+352
+353        <activity
+353-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+354            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+354-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+355            android:excludeFromRecents="true"
+355-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
+356            android:exported="false"
+356-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
+357            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+357-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+358        <!--
+359            Service handling Google Sign-In user revocation. For apps that do not integrate with
+360            Google Sign-In, this service will never be started.
+361        -->
+362        <service
+362-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+363            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+363-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
+364            android:exported="true"
+364-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+365            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+365-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+366            android:visibleToInstantApps="true" />
+366-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\a9e62ac4b76c380590dd08d5f8a398a0\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+367
+368        <meta-data
+368-->[com.google.android.gms:play-services-fitness:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\5e072669cdbb911520bfe2ebd431512f\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:23:9-25:38
+369            android:name="com.google.gms.fitness.sdk.version"
+369-->[com.google.android.gms:play-services-fitness:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\5e072669cdbb911520bfe2ebd431512f\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:24:13-62
+370            android:value="20.0.0" />
+370-->[com.google.android.gms:play-services-fitness:21.0.1] C:\Users\ansht\.gradle\caches\transforms-3\5e072669cdbb911520bfe2ebd431512f\transformed\jetified-play-services-fitness-21.0.1\AndroidManifest.xml:25:13-35
+371
+372        <service
+372-->[com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\3154352ee784df7ab236fc66d37527b9\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:29:9-35:19
+373            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+373-->[com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\3154352ee784df7ab236fc66d37527b9\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:30:13-103
+374            android:exported="false" >
+374-->[com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\3154352ee784df7ab236fc66d37527b9\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:31:13-37
+375            <meta-data
+375-->[com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\3154352ee784df7ab236fc66d37527b9\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:32:13-34:39
+376                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+376-->[com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\3154352ee784df7ab236fc66d37527b9\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:33:17-94
+377                android:value="cct" />
+377-->[com.google.android.datatransport:transport-backend-cct:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\3154352ee784df7ab236fc66d37527b9\transformed\jetified-transport-backend-cct-3.1.2\AndroidManifest.xml:34:17-36
+378        </service>
+379        <service
+379-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:26:9-30:19
+380            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+380-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:27:13-117
+381            android:exported="false"
+381-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:28:13-37
+382            android:permission="android.permission.BIND_JOB_SERVICE" >
+382-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:29:13-69
+383        </service>
+384
+385        <receiver
+385-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:32:9-34:40
+386            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+386-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:33:13-132
+387            android:exported="false" />
+387-->[com.google.android.datatransport:transport-runtime:3.1.2] C:\Users\ansht\.gradle\caches\transforms-3\e40883df62f5eac2b2f80fe3aa8001f8\transformed\jetified-transport-runtime-3.1.2\AndroidManifest.xml:34:13-37
+388
+389        <provider
+389-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+390            android:name="com.google.firebase.provider.FirebaseInitProvider"
+390-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+391            android:authorities="com.kanad.health.firebaseinitprovider"
+391-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+392            android:directBootAware="true"
+392-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+393            android:exported="false"
+393-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+394            android:initOrder="100" />
+394-->[com.google.firebase:firebase-common:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\104b364b1a926c13081362a6276aea8d\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+395
+396        <activity
+396-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ansht\.gradle\caches\transforms-3\8c7278840ecd5e1b3ddc0854b6b35430\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+397            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+397-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ansht\.gradle\caches\transforms-3\8c7278840ecd5e1b3ddc0854b6b35430\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+398            android:exported="false"
+398-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ansht\.gradle\caches\transforms-3\8c7278840ecd5e1b3ddc0854b6b35430\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+399            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+399-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ansht\.gradle\caches\transforms-3\8c7278840ecd5e1b3ddc0854b6b35430\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+400
+401        <receiver
+401-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:29:9-33:20
+402            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+402-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:30:13-85
+403            android:enabled="true"
+403-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:31:13-35
+404            android:exported="false" >
+404-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:32:13-37
+405        </receiver>
+406
+407        <service
+407-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:35:9-38:40
+408            android:name="com.google.android.gms.measurement.AppMeasurementService"
+408-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:36:13-84
+409            android:enabled="true"
+409-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:37:13-35
+410            android:exported="false" />
+410-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:38:13-37
+411        <service
+411-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:39:9-43:72
+412            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+412-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:40:13-87
+413            android:enabled="true"
+413-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:41:13-35
+414            android:exported="false"
+414-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:42:13-37
+415            android:permission="android.permission.BIND_JOB_SERVICE" />
+415-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\ansht\.gradle\caches\transforms-3\df9a1482b39d60af0adc609a9810aec4\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:43:13-69
+416
+417        <meta-data
+417-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ansht\.gradle\caches\transforms-3\4b5da3e6ab5251318a6978323f56f689\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+418            android:name="com.google.android.gms.version"
+418-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ansht\.gradle\caches\transforms-3\4b5da3e6ab5251318a6978323f56f689\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+419            android:value="@integer/google_play_services_version" />
+419-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ansht\.gradle\caches\transforms-3\4b5da3e6ab5251318a6978323f56f689\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+420
+421        <provider
+421-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+422            android:name="androidx.startup.InitializationProvider"
+422-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+423            android:authorities="com.kanad.health.androidx-startup"
+423-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+424            android:exported="false" >
+424-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+425            <meta-data
+425-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+426                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+426-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+427                android:value="androidx.startup" />
+427-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\6072b481be5f6d0935f5842e977aa23c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+428            <meta-data
+428-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ansht\.gradle\caches\transforms-3\e0f55ad9bf9c4aa7c2076585144e72a7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+429                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+429-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ansht\.gradle\caches\transforms-3\e0f55ad9bf9c4aa7c2076585144e72a7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+430                android:value="androidx.startup" />
+430-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ansht\.gradle\caches\transforms-3\e0f55ad9bf9c4aa7c2076585144e72a7\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+431        </provider>
+432        <!--
+433         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+434         with the application context. This config is merged in with the host app's manifest,
+435         but there can only be one provider with the same authority activated at any given
+436         point; so if the end user has two or more different apps that use Facebook SDK, only the
+437         first one will be able to use the provider. To work around this problem, we use the
+438         following placeholder in the authority to identify each host application as if it was
+439         a completely different provider.
+440        -->
+441        <provider
+441-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:41:9-44:40
+442            android:name="com.facebook.internal.FacebookInitProvider"
+442-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:42:13-70
+443            android:authorities="com.kanad.health.FacebookInitProvider"
+443-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:43:13-72
+444            android:exported="false" />
+444-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:44:13-37
+445
+446        <receiver
+446-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:46:9-52:20
+447            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+447-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:47:13-86
+448            android:exported="false" >
+448-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:48:13-37
+449            <intent-filter>
+449-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:49:13-51:29
+450                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+450-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:50:17-95
+450-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:50:25-92
+451            </intent-filter>
+452        </receiver>
+453        <receiver
+453-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:53:9-59:20
+454            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+454-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:54:13-118
+455            android:exported="false" >
+455-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:55:13-37
+456            <intent-filter>
+456-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:56:13-58:29
+457                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+457-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:57:17-103
+457-->[com.facebook.android:facebook-core:13.1.0] C:\Users\ansht\.gradle\caches\transforms-3\f3d914fd43e5d83a52b3f14d55a95cb8\transformed\jetified-facebook-core-13.1.0\AndroidManifest.xml:57:25-100
+458            </intent-filter>
+459        </receiver>
+460
+461        <uses-library
+461-->[androidx.window:window:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\9784b8e0ba226822fe8cb43e91511021\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+462            android:name="androidx.window.extensions"
+462-->[androidx.window:window:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\9784b8e0ba226822fe8cb43e91511021\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+463            android:required="false" />
+463-->[androidx.window:window:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\9784b8e0ba226822fe8cb43e91511021\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+464        <uses-library
+464-->[androidx.window:window:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\9784b8e0ba226822fe8cb43e91511021\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+465            android:name="androidx.window.sidecar"
+465-->[androidx.window:window:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\9784b8e0ba226822fe8cb43e91511021\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+466            android:required="false" />
+466-->[androidx.window:window:1.0.0] C:\Users\ansht\.gradle\caches\transforms-3\9784b8e0ba226822fe8cb43e91511021\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+467    </application>
+468
+469</manifest>

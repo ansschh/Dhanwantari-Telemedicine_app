@@ -1,0 +1,1262 @@
+[
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_work_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_home_work_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backdone.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\backdone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_booked_slots.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_booked_slots.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_checkdiseasetoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\checkdiseasetoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_fill_frm4.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_frm4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_save_24_white.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_save_24_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_stop_circle_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_stop_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_save_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_save_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_doctorshowtoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\doctorshowtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_umbrella_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_umbrella_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_rpmrequestitem.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\rpmrequestitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_mydoctor.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\mydoctor.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu5.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu5.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_google_btn.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\google_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_content_copy_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_content_copy_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_patienttoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\patienttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uploadingdone.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uploadingdone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_acne.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\acne.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_mydoctoritem.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mydoctoritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_diseasepredictionform.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\diseasepredictionform.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_homedoctor.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\homedoctor.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansbold.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gerd.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gerd.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansextrabolditalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansextrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu4.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu4.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_disease_report.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_disease_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uu21.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uu21.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu7.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu7.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_google.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_previousdocts.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\previousdocts.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_view_bg.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable__gradient_.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\_gradient_.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_fill_form2.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_done_outline_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_done_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasanslight.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasanslight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_regular_patient_profile.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_regular_patient_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu11.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu11.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_bookedslot.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\bookedslot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_doctor.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_alert_dialog_profile_picture.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\alert_dialog_profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_bookmark_24_selected.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_bookmark_24_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_hourglass_empty_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_hourglass_empty_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_message_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_allergy.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\allergy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansextralightltalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansextralightltalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_coronavirus_241.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_coronavirus_241.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_commoncold.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\commoncold.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_piles.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\piles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_diabetes.jpeg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\diabetes.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit4.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\edit4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_contact_page.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_contact_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_radio_nomal.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\radio_nomal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansmedium.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_impetigo.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\impetigo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu8.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu8.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_access_time_filled_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_filled_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_back.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_psoriasis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\psoriasis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_coronavirus_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_coronavirus_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\anim_scale_down.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_show.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansblackitalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansblackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_slottimingtoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\slottimingtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_virus.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\virus.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_tension.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\tension.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gradient_.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_remove_red_eye_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gd1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gd1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_send.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_schemeslayout.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\schemeslayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu2.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu2.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_enter_otps.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\enter_otps.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_mypatienttoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mypatienttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\anim_animationbro.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\anim\\animationbro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hypothyroidism.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hypothyroidism.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_fill_form.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_arthritis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\arthritis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_gov_schemes.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_gov_schemes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_check.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_rpmtoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\rpmtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_signup_btn.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\signup_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_pepticulcerdiseae.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\pepticulcerdiseae.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_back_.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\back_.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_patientitem.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\patientitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backtime.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\backtime.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hypoglycemiajpeg.jpeg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hypoglycemiajpeg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_btn_2.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\edit_btn_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_check_disease.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_check_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu1.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu1.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_nextbutton.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\nextbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_tool_bar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_abstract_.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\abstract_.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable__gradient_1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\_gradient_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gastroenteritis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gastroenteritis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_download_prescription.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_download_prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansextrabold.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansextrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_credit_card_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_credit_card_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_loading.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation2.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\navigation\\mobile_navigation2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_medical.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\medical.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_pneumonia.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\pneumonia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasanssemibolditalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasanssemibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_textbg.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\textbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_regular_patient.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_regular_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uu20.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uu20.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_video_call.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_treatment_for_disease.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\fragment_treatment_for_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hepatitise.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hepatitise.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uuu14.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uuu14.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_verifiedcheck.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\verifiedcheck.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_tuberculosis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\tuberculosis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_jaundice.jpeg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\jaundice.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_elevation.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\elevation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_chroniccholestasis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\chroniccholestasis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_logintoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\logintoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_progressbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_govschemestoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\govschemestoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_previous_doctors.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_previous_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit5.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\edit5.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_brainhaemorrhage.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\brainhaemorrhage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uu13.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uu13.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_manman.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\manman.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_fill_form3.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_health_logo.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\health_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansbolditalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansbolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_doctor.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\doctor.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu6.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu6.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_prescritionformtoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\prescritionformtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backcshowprescription.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\backcshowprescription.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sent_for_review.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_sent_for_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_remove_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_imggg.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\imggg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_contacttoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\contacttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansitalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansmediumitalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansmediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_twitter.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_keyboard_voice_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_voice_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasanssemibold.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasanssemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_bronchialasthma.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\bronchialasthma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_regulardoctoritem.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\regulardoctoritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_migraine.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\migraine.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_terrain_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_terrain_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_warning_.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\warning_.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hepatitisc.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hepatitisc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_book_aslot.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_book_aslot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_loading_.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\loading_.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_patient.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_my_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_read_sensor_data.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_read_sensor_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24_pic.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansregular.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_btn1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\edit_text_btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_dropdown.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_chickenpox.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\chickenpox.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hepatitisb.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hepatitisb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24__back.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_varicoseveins.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\varicoseveins.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbarprescription.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbarprescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_prescriptionlink.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\prescriptionlink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hepatitisa.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hepatitisa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_hometoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\hometoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_about_section_for_report.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\fragment_about_section_for_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_editbtn1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\editbtn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_patient_clipboard_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_patient_clipboard_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_malaria.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\malaria.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uuu30.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uuu30.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_signup_button.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\signup_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_doctor.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_my_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_fill_form5.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form5.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\anim_scale_up.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_baby_changing_station_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_baby_changing_station_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_volume_up_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_volume_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_schedule.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\schedule.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_drug.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\drug.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_urinarytractinfection.jpeg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\urinarytractinfection.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_cervicalspondylosis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\cervicalspondylosis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backvideo.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\backvideo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_alert.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\custom_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_doctorshow.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\doctorshow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\anim_scale_up1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\anim\\scale_up1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_give_medicine.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_give_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gd4.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gd4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_insert_photo_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_insert_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansthin.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansthin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_doctor_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_doctor_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_person.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\person.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_enter_text.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\custom_enter_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_https_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_https_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_typhoid.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\typhoid.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasanslightitalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasanslightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hepatitisd.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hepatitisd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_error_btn.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\error_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_falling.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\falling.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_radio_selector.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\radio_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_osteoarthristis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\osteoarthristis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu9.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu9.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_doctorloading.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\doctorloading.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_vertigo.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\vertigo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansextralight.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansextralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansblack.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_color.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gb1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gb1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hiv.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hiv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_sendprescriptiontoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\sendprescriptiontoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_covidcheck.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\covidcheck.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_elevation1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\elevation1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_alcoholichepatitis.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\alcoholichepatitis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_doctorwithmobiile.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\doctorwithmobiile.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbarbookedslot.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbarbookedslot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\anim_scale_down1.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\anim\\scale_down1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_selecttime.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbar_selecttime.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_remote_patient_monitoring.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_remote_patient_monitoring.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_btn.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\edit_text_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_alertcustom.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\alertcustom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_dengue.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\dengue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu10.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu10.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_facebook.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_heartattack.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\heartattack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_symptom_for_disease_report.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\fragment_symptom_for_disease_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_regularpatienttoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\regularpatienttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_vertigo1.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\vertigo1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_videocalltoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\videocalltoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbardoctorprofile.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbardoctorprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_covid_tracker.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_covid_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_prescription.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_profile_show.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_profile_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_mydoctortoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mydoctortoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_back__.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\back__.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_healthdataitem.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\healthdataitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_local_hospital_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_local_hospital_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_fungalinfection.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\fungalinfection.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\font_firasansthinitalic.ttf.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\font\\firasansthinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_login_tab.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\login_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gd3.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gd3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit3.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\edit3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_covid.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backprofile.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\backprofile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_covid.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbar_covid.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_hyperthyroidism.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\hyperthyroidism.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_mypatienttab.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mypatienttab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_uu31.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\uu31.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_signup_tab.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\signup_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_alert.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_bookmark_border_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_bookmark_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_previousdoctoritem.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\previousdoctoritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_givemedicinetoolbar.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\givemedicinetoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uu3.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\uu3.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_no_photography_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_no_photography_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gd2.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gd2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_tablayout.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\tablayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_health.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\health.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_backcshow.jpg.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\backcshow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_submitted.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\submitted.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_previouspatient.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\previouspatient.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_gd8.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\gd8.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_doctor_fill_form6.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form6.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\raw_searchdoctor.json.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\raw\\searchdoctor.json"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_videocam_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_videocam_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_sendinfo.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\sendinfo.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\layout_lang.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\lang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_search.png.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable-v24\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_cloud_upload_24.xml.flat",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\drawable\\ic_baseline_cloud_upload_24.xml"
+    }
+]

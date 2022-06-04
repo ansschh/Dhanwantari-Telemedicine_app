@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="7dp"
+    android:layout_marginVertical="5dp"
+    android:elevation="10dp"
+    app:cardCornerRadius="14dp"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="1"
+        android:background="@drawable/edit3"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.4"
+        android:layout_margin="2.5dp"
+        android:background="@drawable/_gradient_"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_marginBottom="7dp"
+                android:layout_width="wrap_content"
+                android:gravity="center_vertical"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image_doctor"
+                        android:layout_width="145dp"
+                        android:layout_height="145dp"
+                        android:layout_marginVertical="10dp"
+                        android:layout_marginLeft="15dp"
+                        android:elevation="5dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/ic_baseline_person_24"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.5"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <ProgressBar
+                        android:visibility="gone"
+                        android:id="@+id/progressBar"
+                        style="?android:attr/progressBarStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:layout_constraintBottom_toTopOf="@+id/image_doctor"
+                        app:layout_constraintEnd_toStartOf="@+id/image_doctor"
+                        app:layout_constraintHorizontal_bias="0.5"
+                        app:layout_constraintStart_toEndOf="@+id/image_doctor"
+                        app:layout_constraintTop_toBottomOf="@+id/image_doctor" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+                <LinearLayout
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_marginVertical="5dp"
+                            android:id="@+id/Doctor_Name"
+                            android:textSize="15dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/black"
+                            android:fontFamily="sans-serif"
+                            android:textStyle="bold"
+                            android:text="Doctor Name"/>
+                        <ImageView
+                            android:visibility="gone"
+                            android:id="@+id/verifiedcheck"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:src="@drawable/verifiedcheck"
+                            android:layout_margin="5dp"/>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_marginVertical="5dp"
+                        android:id="@+id/Doctor_uid_dummy"
+                        android:visibility="gone"
+                        android:textSize="20dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:fontFamily="sans-serif"
+                        android:textStyle="bold"
+                        android:text="Doctor Name"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:fontFamily="sans-serif"
+                        android:textSize="13dp"
+                        android:layout_marginHorizontal="4dp"
+                        android:textStyle="bold"
+                        android:text="Specilization: "/>
+
+                    <TextView
+                        android:id="@+id/doctor_specilization_on_list"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="2.5dp"
+                        android:fontFamily="sans-serif"
+                        android:text="Specilization"
+                        android:textColor="@color/black"
+                        android:textSize="13dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:textSize="13dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="4dp"
+                        android:fontFamily="sans-serif"
+                        android:textStyle="bold"
+                        android:text="Graduated From: "
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/doctor_institute_on_list"
+                        android:layout_width="wrap_content"
+                        android:layout_marginLeft="2.5dp"
+                        android:textSize="13dp"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif"
+                        android:text="XYZ"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="13dp"
+                        android:textColor="@color/black"
+                        android:fontFamily="sans-serif"
+                        android:layout_marginHorizontal="4dp"
+                        android:textStyle="bold"
+                        android:text="Years Of Expirience: "/>
+                    <TextView
+                        android:id="@+id/doctor_verification_on_list"
+                        android:layout_width="wrap_content"
+                        android:layout_marginLeft="2.5dp"
+                        android:textSize="13dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:fontFamily="sans-serif"
+                        android:text="Verified"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

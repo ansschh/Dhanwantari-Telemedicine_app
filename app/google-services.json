@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74466877597",
+    "firebase_url": "https://health-e34ad-default-rtdb.firebaseio.com",
+    "project_id": "health-e34ad",
+    "storage_bucket": "health-e34ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74466877597:android:8d55457a4372412905f474",
+        "android_client_info": {
+          "package_name": "com.kanad.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74466877597-scibupgkg781kh0ip218hk52uoel534c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kanad.health",
+            "certificate_hash": "ca1d7dd30e356a004d05e3f7474e4a62ba9d40c0"
+          }
+        },
+        {
+          "client_id": "74466877597-s78429j1bsjekee7p91i3sd38vrfblmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7tG8rPwYQNRN_ecW_NYBaZZkS1zon6OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74466877597-s78429j1bsjekee7p91i3sd38vrfblmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

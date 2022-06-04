@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_give_medicine.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_give_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_send.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contacttoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\contacttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_selecttime.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbar_selecttime.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mydoctoritem.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mydoctoritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patientitem.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\patientitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sendprescriptiontoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\sendprescriptiontoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_covid_tracker.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_covid_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_regular_patient_profile.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_regular_patient_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mydoctortoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mydoctortoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_check_disease.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_check_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_symptom_for_disease_report.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\fragment_symptom_for_disease_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_booked_slots.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_booked_slots.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\patienttoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\patienttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\regularpatienttoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\regularpatienttoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_profile_show.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_profile_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_covid.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbar_covid.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rpmrequestitem.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\rpmrequestitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbarbookedslot.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbarbookedslot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\slottimingtoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\slottimingtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_fill_form.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_regular_patient.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_regular_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_container.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_read_sensor_data.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_read_sensor_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_disease_report.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_disease_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_fill_frm4.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_frm4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_remote_patient_monitoring.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_remote_patient_monitoring.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_layout.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\givemedicinetoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\givemedicinetoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_treatment_for_disease.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\fragment_treatment_for_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rpmtoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\rpmtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bookedslot.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\bookedslot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_doctor.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_my_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_fill_form3.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\checkdiseasetoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\checkdiseasetoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_fill_form6.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form6.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\previousdoctoritem.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\previousdoctoritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\doctorshowtoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\doctorshowtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbarprescription.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbarprescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\previousdocts.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\previousdocts.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\prescritionformtoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\prescritionformtoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\logintoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\logintoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\hometoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\hometoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mypatienttab.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mypatienttab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_download_prescription.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_download_prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\diseasepredictionform.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\diseasepredictionform.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tool_bar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\lang.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\lang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_show.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\videocalltoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\videocalltoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sent_for_review.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_sent_for_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_video_call.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_patient.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_my_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\schemeslayout.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\schemeslayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\healthdataitem.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\healthdataitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\enter_otps.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\enter_otps.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\govschemestoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\govschemestoolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about_section_for_report.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\fragment_about_section_for_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alert_dialog_profile_picture.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\alert_dialog_profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_fill_form2.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_doctor_fill_form5.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_doctor_fill_form5.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contact_page.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_contact_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_previous_doctors.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_previous_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\signup_tab.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\signup_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\regulardoctoritem.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\regulardoctoritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gov_schemes.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_gov_schemes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\prescriptionlink.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\prescriptionlink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_prescription.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_book_aslot.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_book_aslot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\login_tab.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\login_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbardoctorprofile.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\toolbardoctorprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mypatienttoolbar.xml",
+        "source": "C:\\Users\\ansht\\Desktop\\Health\\Health\\app\\src\\main\\res\\layout\\mypatienttoolbar.xml"
+    }
+]
