@@ -29,36 +29,30 @@ The disease prediction model in **Dhanwantari** is based on a **Multinomial Naiv
 
 The Multinomial Naive Bayes classifier applies **Bayes' theorem**:
 
-\[
-P(C_k | X) = \frac{P(C_k) \cdot P(X | C_k)}{P(X)}
-\]
+<img src="https://latex.codecogs.com/png.latex?P(C_k%20|%20X)%20=%20%5Cfrac%7BP(C_k)%20%5Ccdot%20P(X%20|%20C_k)%7D%7BP(X)%7D" alt="Bayes Theorem" />
 
 Where:
 
-- \( P(C_k | X) \) is the posterior probability of class \( C_k \) (disease) given feature vector \( X \) (symptoms).
-- \( P(C_k) \) is the prior probability of class \( C_k \) (the likelihood of a disease occurring in the population).
-- \( P(X | C_k) \) is the likelihood of observing the feature vector \( X \) given the class \( C_k \).
-- \( P(X) \) is the probability of the feature vector \( X \) (marginal likelihood).
+- <img src="https://latex.codecogs.com/png.latex?P(C_k%20%7C%20X)" alt="P(C_k | X)" /> is the posterior probability of class \( C_k \) (disease) given feature vector \( X \) (symptoms).
+- <img src="https://latex.codecogs.com/png.latex?P(C_k)" alt="P(C_k)" /> is the prior probability of class \( C_k \).
+- <img src="https://latex.codecogs.com/png.latex?P(X%20%7C%20C_k)" alt="P(X | C_k)" /> is the likelihood of observing the feature vector \( X \) given class \( C_k \).
+- <img src="https://latex.codecogs.com/png.latex?P(X)" alt="P(X)" /> is the probability of the feature vector \( X \) (marginal likelihood).
 
-### Naive Bayes Assumption
+## Naive Bayes Assumption
 
 In Naive Bayes, it is assumed that the features (symptoms) are conditionally independent given the class (disease). Thus, the likelihood term can be factored as a product of the individual feature probabilities:
 
-\[
-P(X | C_k) = P(x_1 | C_k) \cdot P(x_2 | C_k) \cdot ... \cdot P(x_n | C_k)
-\]
+<img src="https://latex.codecogs.com/png.latex?P(X%20%7C%20C_k)%20%3D%20P(x_1%20%7C%20C_k)%20%5Ccdot%20P(x_2%20%7C%20C_k)%20%5Ccdot%20...%20%5Ccdot%20P(x_n%20%7C%20C_k)" alt="P(X | C_k) = P(x_1 | C_k) ⋅ P(x_2 | C_k) ⋅ ... ⋅ P(x_n | C_k)" />
 
 Where \( x_1, x_2, ..., x_n \) are the individual symptoms (features).
 
-### Multinomial Model
+## Multinomial Model
 
 The multinomial version of Naive Bayes is used for discrete features, where each feature represents the number of occurrences of a symptom. The conditional probability \( P(x_i | C_k) \) is computed based on the frequency of symptom \( x_i \) appearing in patients with disease \( C_k \).
 
 Given a feature vector \( X = (x_1, x_2, ..., x_n) \), the probability of observing this vector given a disease \( C_k \) is:
 
-\[
-P(X | C_k) = \frac{(N_k)!}{\prod_{i=1}^{n} (x_i!)} \prod_{i=1}^{n} \left( \frac{\theta_{k, i}^{x_i}}{x_i!} \right)
-\]
+<img src="https://latex.codecogs.com/png.latex?P(X%20%7C%20C_k)%20%3D%20%5Cfrac%7B(N_k)!%7D%7B%5Cprod_%7Bi%3D1%7D%5E%7Bn%7D%20(x_i!)%7D%20%5Cprod_%7Bi%3D1%7D%5E%7Bn%7D%20%5Cleft(%20%5Cfrac%7B%5Ctheta_%7Bk%2C%20i%7D%5E%7Bx_i%7D%7D%7Bx_i!%7D%20%5Cright)" alt="P(X | C_k) = (N_k)! / (prod_i=1^n (x_i!)) * prod_i=1^n (θ_k, i^x_i / x_i!)" />
 
 Where:
 
@@ -66,7 +60,7 @@ Where:
 - \( \theta_{k, i} \) is the probability of feature \( x_i \) occurring in class \( C_k \).
 - \( x_i \) is the count of symptom \( i \) for a patient.
 
-### Model Training
+## Model Training
 
 The model is trained on a dataset of disease-symptom associations, where the training data consists of multiple symptom sets labeled with the corresponding disease. The parameters \( \theta_{k, i} \) for each class are estimated from the training data by computing the frequency of each symptom given the disease.
 
